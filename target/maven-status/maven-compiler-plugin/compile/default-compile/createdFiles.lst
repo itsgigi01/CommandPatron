@@ -1,0 +1,8 @@
+com\mycompany\commandpatron\SubirVolumenCommand.class
+com\mycompany\commandpatron\ApagarCommand.class
+com\mycompany\commandpatron\EncenderCommand.class
+com\mycompany\commandpatron\Television.class
+com\mycompany\commandpatron\Command.class
+com\mycompany\commandpatron\BajarVolumenCommand.class
+com\mycompany\commandpatron\CambiarCanalCommand.class
+com\mycompany\commandpatron\CommandPatron.class
